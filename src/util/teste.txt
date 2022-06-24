@@ -1,0 +1,1 @@
+App Serie sem cadastrar com Firebase
